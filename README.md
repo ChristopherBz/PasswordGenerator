@@ -1,4 +1,5 @@
 # PasswordGenerator
+![image](https://user-images.githubusercontent.com/81110745/122695466-c6a23500-d283-11eb-9a24-88f2d1695bbe.png)
 
 ## Summary
 
